@@ -168,7 +168,7 @@ aside{
     display: flex;
     justify-content: space-between;
     text-decoration: none;
-    color: black;
+    color: rgb(53, 243, 5);
     padding: 5px 0;
 }
 
@@ -255,4 +255,5 @@ footer a:hover{
     .aside-item{margin-bottom: 15px;}
 
     #sobreMim img {width: 200px; height: 300px;}
-}
+}Deployment
+blog-
