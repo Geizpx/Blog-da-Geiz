@@ -219,10 +219,11 @@ footer{
     padding: 15px;
    /* margin-top: 15px;*/
 }
-
+Deployment
+blog-
 footer a{
     text-decoration: none;
-    color: green;
+    color: rgb(245, 5, 165);
 }
 
 footer a:hover{
